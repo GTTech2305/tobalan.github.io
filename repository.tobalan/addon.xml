@@ -8,7 +8,7 @@
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <summary>TobAlan Repository for Kodi</summary>
+        <summary> GT Tech Repository for Kodi</summary>
         <description>A Repository for Streaming Add-ons of Indian OTT Providers</description>
         <platform>all</platform>
         <assets>
