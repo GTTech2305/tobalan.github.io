@@ -100,7 +100,7 @@ def genEPG(i, c):
     global channel, programme, error, result, API, IMG, done
     # for day in range(-7, 8):
     # 7 day future , today and Three days past to play catchup
-    for day in range(-3, 7):
+    for day in range(-3, 4):
         retry_count = 0
         while retry_count < MAX_RETRY:
             try:
